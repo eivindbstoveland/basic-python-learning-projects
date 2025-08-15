@@ -1,4 +1,4 @@
-def age():
+def age_comment():
     age_input = int(input('Please enter the number of your age: '))
 
     if age_input < 18:
@@ -8,5 +8,6 @@ def age():
     else:
         print('Your a senior!')
 
-age()
+age_comment()
+
 
