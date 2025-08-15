@@ -1,7 +1,7 @@
 # basic-python-learning-projects
 A collection og small Python programs created as part of my step-by-step learning. 
 I am not an experienced programmer - this respitory is meant to document any progress, mistakes and hopefully improvements over time.
-Each file represents a small exercise og challenge, starting from very basic concepts and gradually moving towards more advances logic.
+Each file represents a small exercise and challenge, starting from very basic concepts and gradually moving towards more advances logic.
 
 Programs
 1. 01_hello_python.py -> takes a name input and provides present time
